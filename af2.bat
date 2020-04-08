@@ -1,0 +1,1 @@
+gcc -o inscricoes.exe .\inscricoes.c .\Models\paises.c .\Models\cursos.c .\Models\unidadesCurriculares.c .\Controller\controller.c .\views\vwPaises.c .\views\vwCursos.c .\views\vwUnidadesCurriculares.c
