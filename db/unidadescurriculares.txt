@@ -1,0 +1,4 @@
+UC01:2:êtica e Pr†ticas:1:1:1
+UC02:6:Unid. Curr 2:1:2:1
+UC03:6:Unid Curr 3:2:3:2
+UC04:4:Unid Curr 4:3:1:1
